@@ -12,7 +12,12 @@
 <a href="mailto:yeon0isj@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E2E2E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarabin49@gmail.com"/></a>
 <a href="https://www.instagram.com/oieunn__/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-FF00FF?style=flat&logo=Instagram&link=https://www.instagram.com/oieunn__/"
+        src="http://img.shields.io/badge/-Instagram-F6CEF5?style=flat&logo=Instagram&link=https://www.instagram.com/oieunn__/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://velog.io/@본인벨로그아이디">
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Vector Logo Zone)&link=https://velog.io/@본인벨로그아이디"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
