@@ -1,22 +1,37 @@
 ### Hi, I'm Youngeun Jun 👋
 
 ## 💻Tech Stack💻
-<img src="https://img.shields.io/badge/C-2E2E2E?style=flat&logo=C&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C-2E2E2E?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-0040FF?style=flat&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-8000FF?style=flat&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-BFFF00?style=flat&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-FA8072?style=flat&logo=HTML&logoColor=white"/></a>
+
 
 ## 📖I'm Studying📖
 <img src="https://img.shields.io/badge/Java-8000FF?style=flat&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-BFFF00?style=flat&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-BFFF00?style=flat&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-0000CD?style=flat&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-FF4500?style=flat&logo=Figma&logoColor=white"/></a>
 
 ## 📞Contact Me📞
 <a href="mailto:yeon0isj@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E2E2E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarabin49@gmail.com"/></a>
 <a href="https://www.instagram.com/oieunn__/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-FF00FF?style=flat&logo=Instagram&link=https://www.instagram.com/oieunn__/"
+        src="http://img.shields.io/badge/-Instagram-F6CEF5?style=flat&logo=Instagram&link=https://www.instagram.com/oieunn__/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<!-- <a href="https://velog.io/@본인벨로그아이디">
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Vector Logo Zone)&link=https://velog.io/@본인벨로그아이디"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nara085)](https://solved.ac/nara085/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junyewdd&layout=compact&theme=slateorange&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
